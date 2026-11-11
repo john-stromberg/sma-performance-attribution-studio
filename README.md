@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [portfolio-analytics/projects/sma-performance-attribution-studio](https://github.com/john-stromberg/portfolio-analytics/tree/main/projects/sma-performance-attribution-studio).
+> This repository is retained as a historical snapshot.
+
+---
+
 # sma-performance-attribution-studio
 
 Track: **SMA Portfolio Management**
